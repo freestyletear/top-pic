@@ -1,6 +1,6 @@
-<h1 align=center >TOP PIC</h1>
+<h1 align=center >ON THE SPOT</h1>
 
-<p align=center >Flask App that fetches a response from Movie API and displays the movies in categories. Users can also be authenticate and have an account where they can post reviews for movies. 9th September 2021</p>
+<p align=center >. 9th September 2021</p>
 
 <p align="center"> This project was created with Python version 3 </p>
 
