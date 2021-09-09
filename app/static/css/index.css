@@ -1,0 +1,7 @@
+ul {
+    list-style: none;
+}
+.search {
+    display: flex;
+    flex-direction: row;
+}
